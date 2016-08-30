@@ -1,0 +1,22 @@
+{
+  "name": "kjs-array",
+  "version": "1.0.0",
+  "description": "Extending Array",
+  "main": "array.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Array"
+  ],
+  "author": "kamimura",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
+}
